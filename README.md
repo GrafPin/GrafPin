@@ -30,10 +30,10 @@
 ---
 
 ### My sites and app:
-- <a href="http://o291221c.beget.tech/" target="_blank">WordPress (My theme+gallery plugin): «ИСТОРИИ»</a>
-- <a href="https://grafpin.github.io/shelter/shelter/pages/main/" target="_blank">RS School task «Shelter»</a>
-- <a href="https://grafpin.github.io/keyboard/" target="_blank">RS School task «Virtual Keyboard»</a>
-- <a href="https://grafpin.github.io/cssMemSlider/cssMemSlider/index.html" target="_blank">RS School task «CSS Mem Slider»</a>
+- <a href="http://o291221c.beget.tech/" target="_blank">WordPress (My theme+gallery plugin): «ИСТОРИИ»</a> February 2021
+- <a href="https://grafpin.github.io/shelter/shelter/pages/main/" target="_blank">RS School task «Shelter»</a> April 2022
+- <a href="https://grafpin.github.io/keyboard/" target="_blank">RS School task «Virtual Keyboard»</a> May 2022
+- <a href="https://grafpin.github.io/cssMemSlider/cssMemSlider/index.html" target="_blank">RS School task «CSS Mem Slider»</a> May 2022
 
 ---
 
