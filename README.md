@@ -33,6 +33,7 @@
 - <a href="https://grafpin.github.io/shelter/shelter/pages/main/" target="_blank">RS School task «Shelter»</a> April 2022
 - <a href="https://grafpin.github.io/keyboard/" target="_blank">RS School task «Virtual Keyboard»</a> May 2022
 - <a href="http://o291221c.beget.tech/" target="_blank">WordPress (My theme+gallery plugin): «ИСТОРИИ»</a> February 2021
+- <a href="https://github.com/GrafPin/luxuryCoursework/pull/2" target="_blank">Real estate agency promo website «РОСКОШЬ» (Desktop)</a> December 2020
 </br> More in the repositories
 
 ---
