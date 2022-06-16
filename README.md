@@ -38,7 +38,7 @@
 
 ---
 
-### My codewars and certificates:
+### My codewars lvl and certificates:
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/GrafPin/badges/small)
 
 - <a href="https://www.sololearn.com/certificates/course/en/20287039/1024/landscape/png">SoloLearn JavaScript</a>
