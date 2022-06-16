@@ -1,6 +1,6 @@
 <div align="center">
-  <img align="center" src="https://miro.medium.com/max/700/1*lhOax3cZATGZwEhG0uTYRA.gif" height="100">
-  <h2 align="center">hey <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="24"></h2>
+  <img align="center" src="https://miro.medium.com/max/700/1*lhOax3cZATGZwEhG0uTYRA.gif"  alt="Java" height="100">
+  <h2 align="center">hey <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif"  alt="Hi" height="24"></h2>
 </div>
 
 ### About Me :
@@ -38,5 +38,9 @@
 
 ---
 
-### My codewars level:
+### My codewars level and certificates:
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/GrafPin/badges/small)
+
+<img src="https://www.sololearn.com/certificates/course/en/20287039/1024/landscape/png" alt="JS" width="auto" height="220"/>&nbsp;
+<img src="https://www.sololearn.com/Certificate/1014-20287039/jpg/" alt="HTML" width="auto" height="220"/>&nbsp;
+<img src="https://www.sololearn.com/Certificate/1023-20287039/jpg/" alt="CSS" width="auto" height="220"/>&nbsp;
