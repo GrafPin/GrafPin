@@ -38,9 +38,9 @@
 
 ---
 
-### My codewars level and certificates:
+### My codewars and certificates:
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/GrafPin/badges/small)
 
-<img src="https://www.sololearn.com/certificates/course/en/20287039/1024/landscape/png" alt="JS" width="auto" height="180"/>&nbsp;
-<img src="https://www.sololearn.com/Certificate/1014-20287039/jpg/" alt="HTML" width="auto" height="180"/>&nbsp;
-<img src="https://www.sololearn.com/Certificate/1023-20287039/jpg/" alt="CSS" width="auto" height="180"/>&nbsp;
+- <a href="https://www.sololearn.com/certificates/course/en/20287039/1024/landscape/png">SoloLearn JavaScript</a>
+- <a href="https://www.sololearn.com/Certificate/1014-20287039/jpg/" target="_blank">SoloLearn HTML course</a>
+- <a href="https://www.sololearn.com/Certificate/1023-20287039/jpg/" target="_blank">SoloLearn CSS course</a>
